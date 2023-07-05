@@ -1,3 +1,5 @@
+#Prosty przykład akcji wysyłanej do Hypervisor'a.
+
 param(
     [string]$VMName
 )
