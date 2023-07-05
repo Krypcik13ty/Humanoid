@@ -1,0 +1,5 @@
+Done:
+- Shut down VM
+- Put in Forensics vlan
+
+respond accordingly
