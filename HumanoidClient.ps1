@@ -1,3 +1,6 @@
+#Prosty przykład custom'owego agenta wysyłającego dane do systemu Humanoid.
+#Nie powinien być stosowany jako główne źródło zgłaszania, jego miejsce powinien zająć system detekcji taki jak Splunk, Zabbix, Snort czy Solarwinds.
+
 net use \\$env:COMPUTERNAME\Humanoid$
 $eventId = 4625
 $logName = 'Security'
